@@ -1,0 +1,108 @@
+@media (max-width: 768px) {
+    html{
+        width: 100%;
+    }
+    body {
+        background-color: #fff;
+        align-content: center;
+        padding: 0;
+        margin: 0;
+    }
+
+    .omlet-img {
+        max-width: 656px;
+        margin-bottom: 40px;
+    }
+
+    div img {
+        width: 100%;
+        /* height: 300px; */
+        border-radius: 0px;
+    }
+
+    .card {
+        max-width: 736px;
+        padding: 0;
+    }
+
+    header h1 {
+        max-width: 311px;
+        margin-bottom: 24px;
+        font-size: 36px;
+        line-height: 100%;
+        color: #312E2C;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .p1 {
+        max-width: 311px;
+        margin-bottom: 32px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        color: #5F564D;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .time {
+        max-width: 311px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .ingradiens {
+        max-width: 311px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .instructions {
+        max-width: 311px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    footer {
+        max-width: 311px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    footer>div>p {
+        max-width: 300px;
+    }
+
+    .total {
+        max-width: 311px;
+    }
+
+    .line2 {
+        max-width: 311px;
+    }
+
+    .line2 p {
+        max-width: 288px;
+        /* padding-right: 74px; */
+        /* padding-left: 32px; */
+    }
+
+    /* .line3 p {
+        padding-right: 90px;
+    }
+
+    .line4 p {
+        padding-right: 82px;
+    }
+
+    .line5 p {
+        padding-right: 108px;
+    } */
+
+    .line {
+        max-width: 311px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
