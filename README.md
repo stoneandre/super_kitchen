@@ -1,11 +1,11 @@
 # Frontend Mentor - Recipe page - верстка і стилізація проекту головної сторінки сайту новин
 
-Це рішення до челенджу [Recipe page](https://www.frontendmentor.io/challenges/tech-book-club-landing-page-fZQidjHU73). Завдання від Frontend Mentor допомагають покращити навички веброзробки, створюючи реалістичні проєкти.
+Це рішення до челенджу [Recipe page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Завдання від Frontend Mentor допомагають покращити навички веброзробки, створюючи реалістичні проєкти.
 
 ## Зміст
 
 - [Огляд](#огляд)
-  - [Завдання](https://www.frontendmentor.io/challenges/tech-book-club-landing-page-fZQidjHU73)
+  - [Завдання](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
   - [Скріншот](#дизайн)
   - [Посилання](#посилання)
 - [Мій процес](#як-я-це-зробив)
@@ -31,8 +31,8 @@
 
 ### Посилання
 
-- [Рішення URL:](https://github.com/stoneandre/tech)
-- [Живий сайт URL:](https://stoneandre.github.io/tech/)
+- [Рішення URL:](https://github.com/stoneandre/super_kitchen)
+- [Живий сайт URL:](https://stoneandre.github.io/super_kitchen/)
 
 ## Як я це зробив
 
